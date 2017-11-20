@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pocket-living.de/sitemap.xml
