@@ -22,6 +22,8 @@
 * [Yoga Quickborn](https://yoga-quickborn.de)
 * [Dharma Sanftes Yoga Quickborn](https://dharma-sanftes-yoga.de)
 * [Kole Schnuut Hundeschule Training Surendorf Ostsee](http://koleschnuut.de)
+* [One Click Shadowsocks on DigitalOcean](https://oneclickshadowsocks.de)
+* [NATO Alphabet Mnemonics](http://nato-alphabet.de)
 
 ## Contact
 * Homepage: https://repat.de
